@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\",
+  "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sem5y7\\usuariospooii-master\\vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sem5y7\\usuariospooii-master\\vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\controladores\\roles_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:controladores\\roles_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\controladores\\usuarios_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\controladores\\usuarios_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:controladores\\usuarios_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\modelos\\usuario_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\modelos\\usuario_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:modelos\\usuario_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\vistas\\menugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\vistas\\menugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\menugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\sem5y7\\usuariospooii-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem5\\usuariospooii-master\\vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\vistas\\reportes\\resporteusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\reportes\\resporteusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\vistas\\menugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\roles\\curoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\vistas\\menugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\menugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\usuarios\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\controladores\\roles_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:controladores\\roles_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\vistas\\reportes\\resporteusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:vistas\\reportes\\resporteusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\modelos\\roles_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\modelos\\roles_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:modelos\\roles_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\controladores\\accunt_coontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\controladores\\accunt_coontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:controladores\\accunt_coontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C668A7-37D9-424F-9B56-F65710FD79DC}|Usuarios.csproj|solutionrelative:config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,50 +78,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CURoles.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs",
               "RelativeDocumentMoniker": "Vistas\\Roles\\CURoles.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs",
               "RelativeToolTip": "Vistas\\Roles\\CURoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwH4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T00:50:14.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CUUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs",
-              "RelativeDocumentMoniker": "Vistas\\Usuarios\\CUUsuarios.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs",
-              "RelativeToolTip": "Vistas\\Usuarios\\CUUsuarios.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T00:36:17.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T18:17:03.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CUUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs",
               "RelativeDocumentMoniker": "Vistas\\Usuarios\\CUUsuarios.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Usuarios\\CUUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T17:53:52.579Z",
@@ -129,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CURoles.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs",
               "RelativeDocumentMoniker": "Vistas\\Roles\\CURoles.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Roles\\CURoles.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Roles\\CURoles.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T17:53:42.22Z",
@@ -141,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "MenuGeneral.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs",
               "RelativeDocumentMoniker": "Vistas\\MenuGeneral.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\MenuGeneral.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T16:59:00.001Z",
@@ -153,48 +127,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "usuarios_controller.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Controladores\\usuarios_controller.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Controladores\\usuarios_controller.cs",
               "RelativeDocumentMoniker": "Controladores\\usuarios_controller.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Controladores\\usuarios_controller.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Controladores\\usuarios_controller.cs",
               "RelativeToolTip": "Controladores\\usuarios_controller.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAYwHsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwD4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:42:59.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "roles_controller.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Controladores\\roles_controller.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Controladores\\roles_controller.cs",
               "RelativeDocumentMoniker": "Controladores\\roles_controller.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Controladores\\roles_controller.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Controladores\\roles_controller.cs",
               "RelativeToolTip": "Controladores\\roles_controller.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAIwG8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:43:17.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\login.cs",
-              "RelativeDocumentMoniker": "login.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Sem5\\UsuariosPOOII-master\\login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Haro\\Sem5\\UsuariosPOOII-master\\login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T17:17:02.91Z"
+              "WhenOpened": "2025-01-23T16:43:17.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MenuGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs",
+              "RelativeDocumentMoniker": "Vistas\\MenuGeneral.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs",
+              "RelativeToolTip": "Vistas\\MenuGeneral.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:06:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "usuario_model.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Modelos\\usuario_model.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Modelos\\usuario_model.cs",
               "RelativeDocumentMoniker": "Modelos\\usuario_model.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Modelos\\usuario_model.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Modelos\\usuario_model.cs",
               "RelativeToolTip": "Modelos\\usuario_model.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,24 +178,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs",
-              "RelativeDocumentMoniker": "Vistas\\MenuGeneral.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\MenuGeneral.cs",
-              "RelativeToolTip": "Vistas\\MenuGeneral.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAArwCYAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T17:06:37.393Z",
+              "WhenOpened": "2025-01-23T18:17:03.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CUUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs",
+              "RelativeDocumentMoniker": "Vistas\\Usuarios\\CUUsuarios.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Usuarios\\CUUsuarios.cs",
+              "RelativeToolTip": "Vistas\\Usuarios\\CUUsuarios.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:36:17.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Haro\\Sem5\\UsuariosPOOII-master\\login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Haro\\Sem5\\UsuariosPOOII-master\\login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:17:02.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ResporteUsuarios.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Reportes\\ResporteUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Reportes\\ResporteUsuarios.Designer.cs",
               "RelativeDocumentMoniker": "Vistas\\Reportes\\ResporteUsuarios.Designer.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Vistas\\Reportes\\ResporteUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Vistas\\Reportes\\ResporteUsuarios.Designer.cs",
               "RelativeToolTip": "Vistas\\Reportes\\ResporteUsuarios.Designer.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAAIAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,9 +228,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "roles_model.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Modelos\\roles_model.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Modelos\\roles_model.cs",
               "RelativeDocumentMoniker": "Modelos\\roles_model.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Modelos\\roles_model.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Modelos\\roles_model.cs",
               "RelativeToolTip": "Modelos\\roles_model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,9 +240,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "accunt_coontroller.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Controladores\\accunt_coontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Controladores\\accunt_coontroller.cs",
               "RelativeDocumentMoniker": "Controladores\\accunt_coontroller.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Controladores\\accunt_coontroller.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Controladores\\accunt_coontroller.cs",
               "RelativeToolTip": "Controladores\\accunt_coontroller.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,9 +252,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Config\\conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Config\\conexion.cs",
               "RelativeDocumentMoniker": "Config\\conexion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Sem5y7\\UsuariosPOOII-master\\Config\\conexion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem5\\UsuariosPOOII-master\\Config\\conexion.cs",
               "RelativeToolTip": "Config\\conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

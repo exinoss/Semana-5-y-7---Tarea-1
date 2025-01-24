@@ -22,9 +22,9 @@ namespace Usuarios.Vistas
         private void button1_Click(object sender, EventArgs e)
         {
             CUUsuarios Usuarios = new CUUsuarios();
-            splitContainer1.Panel2.Controls.Clear();
+            pnlContenedor.Controls.Clear();
             Usuarios.Dock = DockStyle.Fill;
-            splitContainer1.Panel2.Controls.Add(Usuarios);
+            pnlContenedor.Controls.Add(Usuarios);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -36,9 +36,9 @@ namespace Usuarios.Vistas
         private void btnRoles_Click(object sender, EventArgs e)
         {
             CURoles Roles = new CURoles();
-            splitContainer1.Panel2.Controls.Clear();
+            pnlContenedor.Controls.Clear();
             Roles.Dock = DockStyle.Fill;
-            splitContainer1.Panel2.Controls.Add(Roles);
+            pnlContenedor.Controls.Add(Roles);
         }
 
         
